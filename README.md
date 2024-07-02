@@ -8,7 +8,7 @@ Welcome to my portfolio! Here you can find some of my key projects.
 
 ## [Motion Estimation and Visualisation](https://github.com/ax283/portfolio/tree/main/Motion_Estimation_and_Visualisation)
 - **Description**: Estimating and visualising motion vectors of a moving object in video sequences using computer vision techniques.
-- **Programming languages and libraries used**: Python, OpenCV, Matplotlib.
+- **Programming languages and libraries used**: Python, OpenCV, sys, math, os, NumPy.
 
 ## [Processing Physics Simulator](https://github.com/ax283/portfolio/tree/main/Processing_Physics_Simulator)
 - **Description**: A physics simulation program using Processing to simulate principles of physics and collision detection.
