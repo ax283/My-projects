@@ -1,0 +1,3 @@
+The angle of spinning is the arc tangent of y position/x position in degrees. The rotation in the x and y directions takes this angle and adds it pi/2 then multiplies it by the current number of bounces. The ball rotates when it hits the ceiling, left, right, back walls or after it hits another ball. The 5 textures can be found in the data folder. 
+
+Should you have trouble running the code yourself, you can run the program by going to the  Processing_Physics_Simulator.exe application in the windows-amd64 zip folder. 
