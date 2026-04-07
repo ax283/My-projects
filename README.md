@@ -13,3 +13,11 @@ Welcome to my portfolio! Here you can find some of my key projects.
 ## [Processing Physics Simulator](https://github.com/ax283/portfolio/tree/main/Processing_Physics_Simulator)
 - **Description**: A physics simulation program using Processing to simulate principles of physics and collision detection.
 - **Programming languages and programs used**: Processing, Java.
+
+## [Shifting Tides - Analysing Changes in Australian Climate Attitudes](https://drive.google.com/drive/folders/1vGyREkUt92e9ikjNus2HOtk0hCNB80us?usp=sharing)
+- **Description**: A research project investigating demographic factors behind climate attitude shifts.
+- **Programming languages and programs used**: R, Regression, ggplot2
+
+## [AWS Capstone Project](https://drive.google.com/drive/folders/1GUfzXJsNTwzbcR998l0AKtwwRPJx-tth?usp=drive_link)
+- **Description**: Designed and implemented a scalable AWS infrastructure to host a PHP application.
+- **Main AWS services and features used**: VPC, RDS, EC2, Security groups, Auto-scaling, ALB
